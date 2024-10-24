@@ -1,7 +1,8 @@
 .tabela {
     padding: 10px;
-    background-color: #e3f2fd;
+    background-color: #f5a51c;
     border: 1px solid #ddd;
+    height: 100%;
   }
   
   .tabela table {
@@ -11,7 +12,6 @@
   
   .tabela th,
   .tabela td {
-    border: 1px solid #ddd;
     padding: 8px;
     text-align: left;
   }

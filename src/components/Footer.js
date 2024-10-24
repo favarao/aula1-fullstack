@@ -4,7 +4,7 @@ import './Footer.css';
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>Desenvolvido por Mim</p>
+      <p>João Pedro Favarão Vieira - 2024</p>
     </footer>
   );
 };

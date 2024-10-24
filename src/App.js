@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Tabela from './components/Tabela';
+import './App.css';
 
 function App() {
   const alunos = ['João', 'Maria', 'Carlos', 'Daniel', 'Ana'];
